@@ -33,7 +33,7 @@ a {
 a:hover {color: #666666}
 
 body {
-    background-image: url(assets/images/beanstalk.png);
+    background-image: url("assets/images/beanstalk.png");
     margin: auto;}
 
 h1 {
